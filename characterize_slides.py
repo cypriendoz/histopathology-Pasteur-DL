@@ -1,3 +1,10 @@
+"""
+when having a list of slides one can try to access to the different characteristics of it
+current example is only about slide dimension
+for more information go to http://openslide.org/api/python/
+"""
+
+
 import os
 from os import listdir
 from os.path import isfile, join
